@@ -1,0 +1,159 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+KurşunAsker
+</name>
+</assembly>
+<members>
+<member name="T:KurşunAsker.MouseStates">
+	<summary>
+ Valley Theme
+ Created by Earn
+ from HackForums.net
+ </summary>
+	<remarks></remarks>
+</member><member name="P:KurşunAsker.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources._1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources._11">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources._18306970_A_cartoon_illustration_of_a_knight_with_fighting_stance_pose__Stock_Photo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources._18306970_A_cartoon_illustration_of_a_knight_with_fighting_stance_pose__Stock_Photo___Kopya">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources._18306970_A_cartoon_illustration_of_a_knight_with_fighting_stance_pose__Stock_Photo1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources._3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources._4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources._45818406_illustration_of_traditional_head_chinese_dragon_vector_illustration">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources._5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources._6D28pm8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.Adsız">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.Adsız1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.bomba_hareketli_resim_0005">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.can_stock_photo_csp8360776">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.d1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.d2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.d3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.d4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.deneme">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.depositphotos_6021414_Catholic_knight_graphic_doodle_vector">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.download">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.feu_artifice">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.Kırmızı_Takım">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.Mavi_Takım">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.oleyy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.r1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.Sarı_Takım">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.st">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.theseusvscalydonianboar_1024">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:KurşunAsker.My.Resources.Resources.xd">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:KurşunAsker.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
